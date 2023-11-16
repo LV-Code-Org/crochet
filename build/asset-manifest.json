@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/crochet-grid/static/css/main.06bb16d0.css",
+    "main.js": "/crochet-grid/static/js/main.4744dc47.js",
+    "static/js/787.1e023f69.chunk.js": "/crochet-grid/static/js/787.1e023f69.chunk.js",
+    "static/media/primeicons.svg": "/crochet-grid/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/primeicons.eot": "/crochet-grid/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/crochet-grid/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/crochet-grid/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/crochet-grid/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "index.html": "/crochet-grid/index.html",
+    "main.06bb16d0.css.map": "/crochet-grid/static/css/main.06bb16d0.css.map",
+    "main.4744dc47.js.map": "/crochet-grid/static/js/main.4744dc47.js.map",
+    "787.1e023f69.chunk.js.map": "/crochet-grid/static/js/787.1e023f69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06bb16d0.css",
+    "static/js/main.4744dc47.js"
+  ]
+}
